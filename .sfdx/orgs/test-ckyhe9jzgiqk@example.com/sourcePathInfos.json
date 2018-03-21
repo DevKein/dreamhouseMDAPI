@@ -1,0 +1,422 @@
+[
+    [
+        "/app/dxProject/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673843264,
+            "changeTime": 1521673843264,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673843264,
+            "changeTime": 1521673843264,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673843340,
+            "changeTime": 1521673843340,
+            "contentHash": "d1783acf47fcb7ec23f15dbf710dcc85a0c3e0b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673843264,
+            "changeTime": 1521673843264,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673846092,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "06a2e1dd632aecaa1936e4e83824e47f1518acdb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "07600a75a8aa8bfeec7e2d31f0e41313badbaa3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/layouts/Copado_DX_Demo__c-Copado DX Demo Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/layouts/Copado_DX_Demo__c-Copado DX Demo Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3226,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "e6eff25df93eb28c90876ac7ec08e5cf68ce1a89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "83801cce7d78ff40b17bf3805a90695f877b9748",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "b614971417877c19cefda4827d299e7352ef8966",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Copado_DX_Demo__c-es.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Copado_DX_Demo__c-es.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "7493aee10ab59455f4797846396075437e250b4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Demo_Date_Time__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Demo_Date_Time__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "977fc3f6aac6164eb8e4a88233cc3ccfb7ac57c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Sales_Engineer__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Sales_Engineer__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "ece37d79f324fcb64eda1aae9ba55b332a10d1c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Technical_Engineer__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/Technical_Engineer__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 313,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "9771f5fb7bf03843bb54136e6f2b62b4254eb79d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/To__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objectTranslations/Copado_DX_Demo__c-es/To__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "7d3032794afd84384b60e515c82c5be8c3b638cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "e808fcb7a32c3822308f0a9407018498aecc99f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "a67ef32049d5bc6e76a1b342f6f3a552178eab48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/Copado_DX_Demo__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/Copado_DX_Demo__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2182,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "a5f4d0ad1ba2578342f7bed647d35f490bb7ae27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "6777e96dcaa34130075ccef959879a858967f709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/Demo_Date_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/Demo_Date_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 331,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "e460ed98a47f9bcf900368a2967c94aba0445a6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/Sales_Engineer__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/Sales_Engineer__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 467,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "f0a4b2b7a2b6009dd3767baf28825c5b89072a1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/Technical_Engineer__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/Technical_Engineer__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 474,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "f44116158d3563f575f39414cad9119194190f43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/To__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/objects/Copado_DX_Demo__c/fields/To__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 504,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "f75518f9166952f60c68b79a867a1b81efb4e164",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/triggers",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "074a0d6a9051b4812c7444999edfdf601e52d635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/triggers/CopadoDXTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/triggers/CopadoDXTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 231,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "d2ec55a68b6facd4ddb74a9ea939ddee1e0131b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/CopadoDXDemoBasics/main/default/triggers/CopadoDXTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/CopadoDXDemoBasics/main/default/triggers/CopadoDXTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1521673845968,
+            "changeTime": 1521673845968,
+            "contentHash": "11d1a6c6f3290c9f995ba98867a37b5a576fb6ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1521673849144,
+            "changeTime": 1521673849144,
+            "contentHash": "ed8ac97e094a5dcd6253625af5ac9365c6baf46c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
